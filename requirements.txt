@@ -1,0 +1,4 @@
+selenium          # For browser automation  
+requests          # For making API requests  
+pytest            # For running test cases  
+pytest-html       # For generating HTML reports of test results  
